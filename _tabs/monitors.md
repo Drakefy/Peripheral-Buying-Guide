@@ -1,9 +1,6 @@
 ---
 title: Monitors
-layout: home
-nav_order: 1
-has_toc: true
-permalink: /monitors
+order: 2
 ---
 
 # 27" 1440p ~165
