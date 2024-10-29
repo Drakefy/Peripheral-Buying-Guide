@@ -1,6 +1,5 @@
 ---
 title: Mice
-order: 1
 ---
 
 (Work in Progress)

@@ -1,6 +1,5 @@
 ---
 title: Monitors
-order: 2
 ---
 
 # 27" 1440p ~165
