@@ -1,3 +1,8 @@
-title: The Tech™
-remote_theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
+
 theme_mode: dark
+title: The Tech™
+description: "A blog powered by Chirpy theme and Jekyll"
+url: "https://drakefy.github.io"
+baseurl: "/Peripheral-Buying-Guide"
+theme: jekyll-theme-chirpy
